@@ -40,4 +40,4 @@ Structure comes from sentences; where a file needs visible sections, `// #region
 
 Comments are American English.
 
-Default length is one line. When trimming, cut redundancy, not substance – a shorter comment that needs rereading got worse.
+Length is what the substance needs; one line when it fits. When trimming, cut redundancy, not substance – a shorter comment that needs rereading got worse.
